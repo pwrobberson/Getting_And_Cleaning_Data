@@ -16,7 +16,7 @@ The script, "run_analysis.R", combines several files into a single data set and 
  5. Readable acitivity names are substitued for each of the acitivity numbers.
  6. Only the measurement columns containing either "mean" or "std" are selected.
  7. The rows are grouped first by Subject, then by Activity, and and the mean of each column is calculated.
- 8. The resulting table is written out as a text file.
+ 8. The resulting table is written out as a text file, "gseldat.txt".
 
 The R script is also annotated.
 
