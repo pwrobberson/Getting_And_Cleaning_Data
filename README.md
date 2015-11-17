@@ -4,7 +4,7 @@ Repo for submission of Data Coursera Project
 **Summary**
 -------
 
-The script, "run_analysis.R", combines several files into a single data set and computes the mean for each measurement that corresponds to a "mean" or "std" column.  The measurements are made from triaxial (x, y, z) raw sensor signal data from an accelerometer and gyroscope in a Samsung Galaxy X II smartphone.  The data was captured for each of 30 volunteers (subjects) as they performed six activities (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, and Laying.  The result is 180 mean observations (30 x 6) for 86 variables. 
+The script, "run_analysis.R", combines several files into a single data set and computes the mean for each measurement that corresponds to a "mean" or "std" column.  The measurements are made from triaxial (x, y, z) raw sensor signal data from an accelerometer and gyroscope in a Samsung Galaxy X II smartphone.  The data was captured for each of 30 volunteers (subjects) as they performed six activities (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, and Laying.  The result is a tidy data set with 180 mean observations (30 x 6) for each of 86 variables. 
 
 **Summary of R Script**
 -------------------
